@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "ok",
+  "results": [
+    {
+      "id": 1,
+      "name": "wall·e",
+      "description": "After 700 years alone on earth as the last Waste Allocation Load Lifter Earth-Class, WALL-E has developed a glitch--a personality.",
+      "poster": "../img/wall-e.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "eve",
+      "description": "A sleek, state-of-the-art Extra-terrestrial Vegetation Evaluator, EVE is always laser-focused on her directive.",
+      "poster": "../img/eve.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "auto",
+      "description": "The Axiom’s autopilot for all of its 700 years in space, Auto is cold, mechanical, and a bit controlling of the Captain.",
+      "poster": "../img/auto.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "vn-go",
+      "description": "A painting bot complete with a multi-color fibrous pigment distribution system for all of the Axiom’s painting needs.",
+      "poster": "../img/vn-go.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "vaq-m",
+      "description": "An accordion-necked vacuum-bot aboard the axiom. Programmed to clean and scrub, but prone to sneezing fits.",
+      "poster": "../img/vac-m.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "pr-t",
+      "description": "A robotic hairdresser aboard the Axiom, programmed to make small-talk as she styles hair with her cutting edge styling technology.",
+      "poster": "../img/pr-t.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "hal",
+      "description": "An extremely resistant and loyal cockroach who survives on dessert snack, Hal is WALL-E's pet and best pal on Earth.",
+      "poster": "../img/hal.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "m-o",
+      "description": "Microbe Obliterator M-O is a cleaner-bot who loves to clean away all foreign contaminants that find their way onto the Axiom.",
+      "poster": "../img/m-o.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "l-t",
+      "description": "A light-bot aboard the Axiom. L-T requires a 120 watt dual-setting halogen bulb, and boasts an anti-gravity magnetic airframe.",
+      "poster": "../img/l-t.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "han-s",
+      "description": "One of the Axiom’s many massage-bots, complete with soothing visual display and an even-tempered behavioral mod chip.",
+      "poster": "../img/han-s.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "go-4",
+      "description": "Small but easily identifiable with their red lights, GO-4 units are charged with overseeing security on the Axiom.",
+      "poster": "../img/go-4.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "d-fib",
+      "description": "The Axiom’s defib-bot, sometimes prone to delivering a bit too much charge through their paddles. Often heard saying “clear!�?",
+      "poster": "../img/d-fib.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "brl-a",
+      "description": "An umbrella-bot, used to provide shade while on the Axiom more often than to protect passengers from rain.",
+      "poster": "../img/brl-a.jpeg"
+    }
+  ]
+}
